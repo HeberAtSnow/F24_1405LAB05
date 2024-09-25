@@ -482,3 +482,7 @@ $RECYCLE.BIN/
 
 # Vim temporary swap files
 *.swp
+
+
+##Exclude Tests - so student's don't overwrite their repository of tests for grading
+/Lab05Test/
